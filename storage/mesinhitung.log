@@ -1,0 +1,3 @@
+{"id":1,"command":"add","operation":"4 + 5 + 123","result":132};
+{"id":2,"command":"multiply","operation":"4 * 5 * 123","result":2460};
+{"id":3,"command":"subtract","operation":"4 - 5","result":-1};
